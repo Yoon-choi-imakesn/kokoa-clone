@@ -1,0 +1,28 @@
+.nav {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 20px 0px;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
+.nav__list {
+  display: flex;
+  justify-content: space-around;
+}
+.nav__link {
+}
+
+.nav__notification {
+  position: absolute;
+  bottom: 38px;
+  left: 37.5%;
+}
+
+.nav__notificationDot {
+  color: tomato;
+  font-size: 50px;
+  position: absolute;
+  bottom: 43px;
+  right: 8.5%;
+}

@@ -1,0 +1,12 @@
+.user-component__column:last-child {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.user-component__notification {
+  position: absolute;
+  margin-left: 20px;
+  margin-top: 18px;
+}

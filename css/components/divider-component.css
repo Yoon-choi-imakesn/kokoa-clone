@@ -1,0 +1,7 @@
+.divider-component {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding: var(--horizontal-space);
+  padding-top: 10px;
+  color: rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+}
